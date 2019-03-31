@@ -1,9 +1,9 @@
-package com.roahn.dao.main;
+package com.rohan.dao.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages="com.rohan.dao")
+@SpringBootApplication(scanBasePackages="com.rohan")
 public class MainApplication {
 
 	public static void main(String[] args) {
